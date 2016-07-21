@@ -1,8 +1,8 @@
-Simple chat server for G54SQM module
+Simple chat server for G54SQM module (Unversity Project)
 
 Requires JRE 1.7
 
-Tested on MAC OSX but should be compatable with all java supported OS
+Tested on MAC OSX, Windows 7 and 8, but should be compatable with all java supported OS
 
 jar file in "jar files" folder can be run with "java -jar chatServer.jar"
 
